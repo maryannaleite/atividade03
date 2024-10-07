@@ -1,0 +1,17 @@
+C:\Users\aluno.cad\source\repos\BlocoDeNotasAtividade03_\BlocoDeNotasAtividade03_\obj\Debug\net8.0-windows\BlocoDeNotasAtividade03_.Form1.resources
+C:\Users\aluno.cad\source\repos\BlocoDeNotasAtividade03_\BlocoDeNotasAtividade03_\obj\Debug\net8.0-windows\BlocoDeNotasAtividade03_.Properties.Resources.resources
+C:\Users\aluno.cad\source\repos\BlocoDeNotasAtividade03_\BlocoDeNotasAtividade03_\obj\Debug\net8.0-windows\BlocoDeNotasAtividade03_.csproj.GenerateResource.cache
+C:\Users\aluno.cad\source\repos\BlocoDeNotasAtividade03_\BlocoDeNotasAtividade03_\obj\Debug\net8.0-windows\BlocoDeNotasAtividade03_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno.cad\source\repos\BlocoDeNotasAtividade03_\BlocoDeNotasAtividade03_\obj\Debug\net8.0-windows\BlocoDeNotasAtividade03_.AssemblyInfoInputs.cache
+C:\Users\aluno.cad\source\repos\BlocoDeNotasAtividade03_\BlocoDeNotasAtividade03_\obj\Debug\net8.0-windows\BlocoDeNotasAtividade03_.AssemblyInfo.cs
+C:\Users\aluno.cad\source\repos\BlocoDeNotasAtividade03_\BlocoDeNotasAtividade03_\obj\Debug\net8.0-windows\BlocoDeNotasAtividade03_.csproj.CoreCompileInputs.cache
+C:\Users\aluno.cad\source\repos\BlocoDeNotasAtividade03_\BlocoDeNotasAtividade03_\bin\Debug\net8.0-windows\BlocoDeNotasAtividade03_.exe
+C:\Users\aluno.cad\source\repos\BlocoDeNotasAtividade03_\BlocoDeNotasAtividade03_\bin\Debug\net8.0-windows\BlocoDeNotasAtividade03_.deps.json
+C:\Users\aluno.cad\source\repos\BlocoDeNotasAtividade03_\BlocoDeNotasAtividade03_\bin\Debug\net8.0-windows\BlocoDeNotasAtividade03_.runtimeconfig.json
+C:\Users\aluno.cad\source\repos\BlocoDeNotasAtividade03_\BlocoDeNotasAtividade03_\bin\Debug\net8.0-windows\BlocoDeNotasAtividade03_.dll
+C:\Users\aluno.cad\source\repos\BlocoDeNotasAtividade03_\BlocoDeNotasAtividade03_\bin\Debug\net8.0-windows\BlocoDeNotasAtividade03_.pdb
+C:\Users\aluno.cad\source\repos\BlocoDeNotasAtividade03_\BlocoDeNotasAtividade03_\obj\Debug\net8.0-windows\BlocoDeNotasAtividade03_.dll
+C:\Users\aluno.cad\source\repos\BlocoDeNotasAtividade03_\BlocoDeNotasAtividade03_\obj\Debug\net8.0-windows\refint\BlocoDeNotasAtividade03_.dll
+C:\Users\aluno.cad\source\repos\BlocoDeNotasAtividade03_\BlocoDeNotasAtividade03_\obj\Debug\net8.0-windows\BlocoDeNotasAtividade03_.pdb
+C:\Users\aluno.cad\source\repos\BlocoDeNotasAtividade03_\BlocoDeNotasAtividade03_\obj\Debug\net8.0-windows\BlocoDeNotasAtividade03_.genruntimeconfig.cache
+C:\Users\aluno.cad\source\repos\BlocoDeNotasAtividade03_\BlocoDeNotasAtividade03_\obj\Debug\net8.0-windows\ref\BlocoDeNotasAtividade03_.dll
